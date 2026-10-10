@@ -7,4 +7,4 @@ print("6-7PM - Play football with friends")
 print("9:30PM - Sleep")
 #This calculates and prints how much time I have played football in a week
 print("Total time to play football in a week -", 1*7)
-#End of the program hope you liked it!
+#End of the program hope you liked it.
